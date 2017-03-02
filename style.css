@@ -1,0 +1,21 @@
+#container {
+
+	width: 900px;
+}
+
+button {
+	color: green;
+}
+
+#form {
+/*	float: right;
+*//*	overflow: hidden;	
+*/
+margin-left: 500px;
+
+}
+
+#gifs-appear-here {
+	float: left;
+
+}
